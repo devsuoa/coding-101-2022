@@ -82,3 +82,12 @@ brew install yarn
 ```
 
 - Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. v1.22.0) should be returned.
+
+
+# Useful links
+
+Stackblitz home page: https://stackblitz.com/
+Array coding examples: https://stackblitz.com/edit/node-tmjf6h
+
+Project stackblitz starter (Recommended): https://stackblitz.com/edit/web-platform-iykirb
+Project github starter: https://github.com/ateagit/phaser-pacman
