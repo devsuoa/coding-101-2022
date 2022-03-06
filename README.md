@@ -86,8 +86,8 @@ brew install yarn
 
 # Useful links
 
-Stackblitz home page: https://stackblitz.com/
-Array coding examples: https://stackblitz.com/edit/node-tmjf6h
+- Stackblitz home page: https://stackblitz.com/
+- Array coding examples: https://stackblitz.com/edit/node-tmjf6h
 
-Project stackblitz starter (Recommended): https://stackblitz.com/edit/web-platform-iykirb
-Project github starter: https://github.com/ateagit/phaser-pacman
+- Project stackblitz starter (Recommended): https://stackblitz.com/edit/web-platform-iykirb
+- Project github starter: https://github.com/ateagit/phaser-pacman
