@@ -91,3 +91,14 @@ brew install yarn
 
 - Project stackblitz starter (Recommended): https://stackblitz.com/edit/web-platform-iykirb
 - Project github starter: https://github.com/ateagit/phaser-pacman
+
+
+# Competition
+
+1. Make Ghosts go 10 units faster every time pacman eats a pill
+- Check out the ghostSpeed variable. See what happens when we change the value assigned to it.
+2. Cap the ghost speed at 500.
+- Check out what a if statement does.
+3. When pacman eats between 5 and 10 pills he should be able to eat ghosts
+- May need to create a new variable to hold how many pills pacman has eaten
+- Should play the ghost `'can-eat'` animation when they can be eaten and then play `'normal'` animation otherwise.
